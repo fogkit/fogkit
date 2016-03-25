@@ -1,0 +1,12 @@
+{
+  "name": "fogkit",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fogkit/fogkit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fogkit/fogkit/issues"
+  },
+  "homepage": "https://www.fogkit.net"
+}
